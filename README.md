@@ -1,7 +1,10 @@
 # Fun
 Job joke
 
-《主管被高管持續穿透》技能描述（Baron壓力化形Ver.）
+《Baron壓力化》
+
+技能描述:
+
 Q：認知穿透（Cognitive Penetration）
 被動：每當高管提問，立即觸發冷卻時間為零的【思考中斷】效果。
 
